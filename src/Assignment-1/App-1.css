@@ -1,0 +1,13 @@
+.AppClass {
+  text-align: center;
+  border: 1px solid #eee;
+  box-shadow: 2px 4px 4px #333;
+  max-width: 400px;
+  margin: auto;
+  margin-top: 5%;
+  padding: 20px;
+}
+
+.underline {
+  text-decoration: underline;
+}
